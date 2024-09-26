@@ -65,10 +65,10 @@ func soal_2() {
 
 //Core Function
 func main() {
-	fmt.Println("Jawaban soal 1")
-	soal_1()
+	// fmt.Println("Jawaban soal 1")
+	// soal_1()
 
-	fmt.Println()
+	// fmt.Println()
 
 	fmt.Println("Jawaban soal 2")
 	soal_2()
